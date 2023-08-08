@@ -1,0 +1,26 @@
+/*
+selector: tag, class, id
+*/
+/*
+selector{
+    property: value;
+}
+*/
+p{
+    color: red;
+}
+.text{
+    color: aqua;
+}
+.fon{
+    font-size: 25px;
+    font-weight: bold;
+}
+#bg{
+    background-color: black;
+    color: white;
+    text-align: justify;
+}
+#ba{
+    background-color: black;
+}

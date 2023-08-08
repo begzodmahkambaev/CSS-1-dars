@@ -1,0 +1,7 @@
+body{
+    background-color: brown;
+    background-image: url("../rasmlar/00.jpeg");
+    background-repeat: no-repeat; /* repeat(default code),no-repeat,repeat-x,repeat-y */
+    background-size: 70%;
+    /*background-position: center 200px;*/ /* x(left,center,right),y(top,center,bottom) */
+}
